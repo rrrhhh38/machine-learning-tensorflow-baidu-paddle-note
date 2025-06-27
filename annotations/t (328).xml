@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_1</folder>
+	<filename>t (328).jpg</filename>
+	<path>D:\labelimg_dataset\images_1\t (328).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>149</width>
+		<height>234</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>man</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>17</ymin>
+			<xmax>129</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

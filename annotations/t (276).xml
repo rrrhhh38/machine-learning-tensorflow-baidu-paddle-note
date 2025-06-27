@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_1</folder>
+	<filename>t (276).jpg</filename>
+	<path>D:\labelimg_dataset\images_1\t (276).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>347</width>
+		<height>234</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>37</ymin>
+			<xmax>277</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

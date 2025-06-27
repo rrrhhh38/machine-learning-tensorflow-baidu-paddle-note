@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images_1</folder>
+	<filename>t (405).jpg</filename>
+	<path>D:\labelimg_dataset\images_1\t (405).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>351</width>
+		<height>234</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>42</ymin>
+			<xmax>337</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>19</ymin>
+			<xmax>188</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

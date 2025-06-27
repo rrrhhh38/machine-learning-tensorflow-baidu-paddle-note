@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images_1</folder>
+	<filename>t (163).jpg</filename>
+	<path>D:\labelimg_dataset\images_1\t (163).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>149</width>
+		<height>239</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>woman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>15</ymin>
+			<xmax>92</xmax>
+			<ymax>47</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>woman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>14</ymin>
+			<xmax>118</xmax>
+			<ymax>43</ymax>
+		</bndbox>
+	</object>
+</annotation>
